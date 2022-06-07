@@ -7,3 +7,5 @@ As stated above, the main purpose is to provide simpl examples
 ## Deployment
 Deployment
 ## How To Contribute
+
+## Copyright
