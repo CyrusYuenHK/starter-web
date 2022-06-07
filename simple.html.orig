@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<!--
+	Copyright Git.Training
+-->
+<head>
+<<<<<<< HEAD
+	<title>An POOR website</title>
+=======
+	<title>An GREAT website</title>
+>>>>>>> realwork
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			Apple is the best company
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Apple 2014</p>
+=======
+			HIHIHIHI
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Ekimetrics 2014</p>
+>>>>>>> realwork
+	</footer>
+</body>
+</html>
